@@ -12,8 +12,8 @@
     --text-color: #212529;
 }
 
-button{
-    padding: 10px 12px;
+.button{
+    padding: 10px 20px;
     border: none;
-    border-radius: 1000px;
+    border-radius: 1000px;  
 }
