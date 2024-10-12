@@ -2,6 +2,7 @@
 
 .header {
     position: fixed;
+    z-index: 99;
     top: 40px;
     left: 0;
     width: 100%;
@@ -164,6 +165,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    opacity: 1;
 }
 
 .section1 .inner-wrap {
@@ -197,7 +199,7 @@
 /* section2 */
 
 .section2 {
-    margin-top: -255px;
+    margin-top: 20px;
 }
 
 .section2 .container .row {
@@ -259,7 +261,7 @@
 /* section3 */
 
 .section3 {
-    margin-top: 20px;
+    margin-top: 10rem;
 }
 
 .section3 .inner-wrap {
